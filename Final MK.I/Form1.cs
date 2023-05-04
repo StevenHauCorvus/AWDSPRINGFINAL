@@ -165,16 +165,31 @@ namespace Final_MK.I
 
         private void btnPrintTicket_Click(object sender, EventArgs e)
         {
-            Employee student = new Employee(int.Parse(txtStudentID.Text), txtFirstName.Text, txtLastName.Text, txtEmail.Text);
-
-            courses[cboCourse.SelectedIndex].GetEmployees.Add(student);
-
-            counter++;
-            label8.Text = counter.ToString();
 
 
+            try
+            {
+                Employee employees = new Employee(int.Parse(txtStudentID.Text), txtFirstName.Text, txtLastName.Text, txtEmail.Text);
 
-            DisplayStudents();
+                courses[cboCourse.SelectedIndex].GetEmployees.Add(employees);
+
+                counter++;
+                label8.Text = counter.ToString();
+
+
+
+                DisplayStudents();
+
+
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Please enter the correct information");
+
+
+            }
+        
         }
 
         private void btnRemoveTicketID_Click(object sender, EventArgs e)

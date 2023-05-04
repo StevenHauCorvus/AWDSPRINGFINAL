@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\AWDSPRINGTESTTEMPLATE\\Final MK.II\\Final MK.II.csproj": {}
+    "C:\\Users\\User\\Desktop\\AWDSPRINGFINAL\\Final MK.II\\Final MK.II.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\AWDSPRINGTESTTEMPLATE\\Final MK.II\\Final MK.II.csproj": {
+    "C:\\Users\\User\\Desktop\\AWDSPRINGFINAL\\Final MK.II\\Final MK.II.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\AWDSPRINGTESTTEMPLATE\\Final MK.II\\Final MK.II.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\AWDSPRINGFINAL\\Final MK.II\\Final MK.II.csproj",
         "projectName": "Final MK.II",
-        "projectPath": "C:\\Users\\User\\Desktop\\AWDSPRINGTESTTEMPLATE\\Final MK.II\\Final MK.II.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\AWDSPRINGFINAL\\Final MK.II\\Final MK.II.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\AWDSPRINGTESTTEMPLATE\\Final MK.II\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\AWDSPRINGFINAL\\Final MK.II\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

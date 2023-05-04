@@ -1,5 +1,6 @@
 using System.Data;
 using System.Data.SqlClient;
+using System.Diagnostics.Eventing.Reader;
 
 //WITHOUT SQL
 namespace Final_MK.II
@@ -242,16 +243,33 @@ namespace Final_MK.II
 
         private void btnPrintTicket_Click(object sender, EventArgs e)
         {
-            Employee employee = new Employee(int.Parse(txtStudentID.Text), txtFirstName.Text, txtLastName.Text, txtEmail.Text);
-
-            courses[cboCourse.SelectedIndex].GetEmployees.Add(employee);
-
-            counter++;
-            label8.Text = counter.ToString();
 
 
+            try
+            {
+                Employee employees = new Employee(int.Parse(txtStudentID.Text), txtFirstName.Text, txtLastName.Text, txtEmail.Text);
 
-            DisplayStudents();
+                courses[cboCourse.SelectedIndex].GetEmployees.Add(employees);
+                counter++;
+                label8.Text = counter.ToString();
+                DisplayStudents();
+
+
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Please enter the correct information");
+
+
+            }
+
+
+
+
+
+
+
         }
     }
 }

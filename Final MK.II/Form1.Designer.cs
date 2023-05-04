@@ -102,9 +102,9 @@
             loginScreen.Controls.Add(txtPassword);
             loginScreen.Controls.Add(txtUserName);
             loginScreen.Controls.Add(pictureBox1);
-            loginScreen.Location = new Point(-9, -9);
+            loginScreen.Location = new Point(-20, -12);
             loginScreen.Name = "loginScreen";
-            loginScreen.Size = new Size(1076, 522);
+            loginScreen.Size = new Size(1097, 538);
             loginScreen.TabIndex = 1;
             loginScreen.TabStop = false;
             // 

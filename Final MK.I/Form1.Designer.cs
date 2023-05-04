@@ -455,7 +455,7 @@
             this.loginScreen.Controls.Add(this.Username);
             this.loginScreen.Controls.Add(this.btnLogin);
             this.loginScreen.Controls.Add(this.txtUserName);
-            this.loginScreen.Location = new System.Drawing.Point(-9, 2);
+            this.loginScreen.Location = new System.Drawing.Point(12, 463);
             this.loginScreen.Name = "loginScreen";
             this.loginScreen.Size = new System.Drawing.Size(1481, 805);
             this.loginScreen.TabIndex = 8;

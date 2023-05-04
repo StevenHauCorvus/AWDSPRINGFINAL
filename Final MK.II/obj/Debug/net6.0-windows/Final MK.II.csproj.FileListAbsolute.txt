@@ -17,3 +17,22 @@ C:\Users\User\Desktop\AWDSPRINGTESTTEMPLATE\Final MK.II\obj\Debug\net6.0-windows
 C:\Users\User\Desktop\AWDSPRINGTESTTEMPLATE\Final MK.II\obj\Debug\net6.0-windows\Final MK.II.genruntimeconfig.cache
 C:\Users\User\Desktop\AWDSPRINGTESTTEMPLATE\Final MK.II\obj\Debug\net6.0-windows\ref\Final MK.II.dll
 C:\Users\User\Desktop\AWDSPRINGTESTTEMPLATE\Final MK.II\obj\Debug\net6.0-windows\Final_MK.II.FormDemo.resources
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\bin\Debug\net6.0-windows\Final MK.II.exe
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\bin\Debug\net6.0-windows\Final MK.II.deps.json
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\bin\Debug\net6.0-windows\Final MK.II.runtimeconfig.json
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\bin\Debug\net6.0-windows\Final MK.II.dll
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\bin\Debug\net6.0-windows\Final MK.II.pdb
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final MK.II.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final_MK.II.Form1.resources
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final_MK.II.FormDemo.resources
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final_MK.II.Properties.Resources.resources
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final MK.II.csproj.GenerateResource.cache
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final MK.II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final MK.II.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final MK.II.AssemblyInfo.cs
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final MK.II.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final MK.II.dll
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\refint\Final MK.II.dll
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final MK.II.pdb
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\Final MK.II.genruntimeconfig.cache
+C:\Users\User\Desktop\AWDSPRINGFINAL\Final MK.II\obj\Debug\net6.0-windows\ref\Final MK.II.dll
